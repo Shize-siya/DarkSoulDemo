@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2731a7bfcd2976e4a841775247b56e80, type: 3}
+  m_Name: Great Sword
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: f9ac11eaf0fe105449ec34d4ed5f7fb0, type: 3}
+  itemName: Great Sword
+  modelPrefab: {fileID: 1277234671535021121, guid: e47380da819b2174da407e8b3ff05817, type: 3}
+  isUnarmed: 0
+  right_hand_idle: Right_Arm_Idle_02
+  left_hand_idle: Left_Arm_Idle_02
+  OH_Light_Attack_1: LightAttack3
+  OH_Light_Attack_2: LightAttack3
+  OH_Heavy_Attack_1: HeavyAttack1
+  OH_Heavy_Attack_2: 
+  baseStamina: 100
+  lightAttackMultiplier: 1
+  heavyAttackMultiplier: 2
